@@ -26,7 +26,8 @@
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mcr-t&show_icons=true&count_private=true)
 -->
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcr-t)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcr-t&size_weight=0.3&count_weight=0.7&langs_count=20&layout=compact&hide_progress=true)
+
 
 
 <!--
