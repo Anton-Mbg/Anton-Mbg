@@ -1,7 +1,8 @@
 
 # Hello I'm Anton 👋🏻
 
-[![Linkedin Badge](https://img.shields.io/badge/-anton%20thiel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-thiel-6bb92b1a2/)]([https://www.linkedin.com/in/anton-thiel-6bb92b1a2//](https://www.linkedin.com/in/anton-thiel-6bb92b1a2/))
+[![Linkedin Badge](https://img.shields.io/badge/-anton%20thiel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anton-thiel-6bb92b1a2/)]((https://www.linkedin.com/in/anton-thiel-6bb92b1a2/))
+
 
 
 **Languages and Tools:**  
